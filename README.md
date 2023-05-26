@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Randkhawley/Randkhawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shopify storefront builds.
 - 🌱 I’m currently learning liquid.
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about all things Shopify.
 - 📫 How to reach me: ryanhawley81@gmail.com
 - ⚡ Fun fact: I belive most problems can be solved by a day at the beach, a nice ribeye steak, or a large glass of red wine. 
--->
+
